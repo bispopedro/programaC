@@ -1,1 +1,2 @@
-# programaC
+# programa de alunos em linguagem C
+
